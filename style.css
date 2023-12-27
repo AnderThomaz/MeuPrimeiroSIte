@@ -39,7 +39,7 @@ header {
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.151); ;
     color: white;
     text-align: center;
-    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.288);
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.11);
     font-family:"Bebas Neue";
     word-spacing: 3px;
     letter-spacing: 2px;
@@ -47,15 +47,15 @@ header {
 }
 header > p {
     text-align: center;
-    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.692);
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.13);
     font-family: Arial, Helvetica, sans-serif;
     word-spacing: 2px;
     letter-spacing: 0px;
-    padding: 0px;
+    padding: 20px;
     max-width: 500px;
     margin: auto;
     font-size: 1.2em;
-    padding-bottom: 20px;
+    
 }
 
 nav {
@@ -63,7 +63,7 @@ nav {
     height: 28px;
     text-align:left ;
     padding-top: 20px;
-    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.404);
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.137);
     font-family: Arial, Helvetica, sans-serif;
     
     
